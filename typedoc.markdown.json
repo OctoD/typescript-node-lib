@@ -1,9 +1,9 @@
 {
-  "mode": "modules",
   "out": "docs",
   "readme": "none",
+  "entryPoints": ["src/index.ts"],
   "exclude": [
-    "benchmarks",
+    "benchmarks/**",
     "src/index.ts",
     "src/common.ts",
     "**/__tests__/**"

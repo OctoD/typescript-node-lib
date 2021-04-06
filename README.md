@@ -9,6 +9,7 @@ Add your library features here.
 
 📦 This template already has (out of the box):
 
+* preconfigured rollup build (for amd, umd, esnext and commonjs)
 * preconfigured jest (with ts-jest) for testing your library
 * preconfigured benchmarks with benchmark.js
 * azure dev-ops configuration
